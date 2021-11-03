@@ -59,11 +59,9 @@ osVersions=( 'alpine' )
 
 # All the Webservers:
 webServers=(  'apache' )
-# webServers=(  'apache' 'nginx' )
 
 # All PHP versions:
 phpVersions=( 'php5' 'php7' 'php73' )
-# phpVersions=( 'php5' 'php7' 'php73' )
 
 # PHP support for each ojs version:
 php5=(  'ojs-2_0_0-0' \
